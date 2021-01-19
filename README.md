@@ -1,2 +1,2 @@
-# GloboTicket.TicketManagement
+# Ticket Management
 Clean Architecture Demo
